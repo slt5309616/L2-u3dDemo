@@ -134,6 +134,7 @@ public class U3dDemo : MonoBehaviour {
         yield return obj = Instantiate(obj);
         
         www.assetBundle.Unload(false);
+        www1.assetBundle.Unload(false);
         for (int i = 0; i < abArray.Length; i++) {
             abArray[i].Unload(false);
         }
