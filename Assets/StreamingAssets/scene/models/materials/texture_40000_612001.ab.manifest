@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3445066621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d82da78e1781219019b49bddd6eae702
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 629335a92f4b17a508b42bc764691432
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Scene/Models/Materials/Texture_40000_612001.mat
+Dependencies:
+- Assets/StreamingAssets/scene/textures/texture_40000_612001.ab
+- Assets/StreamingAssets/preload/shader/shaderinit.ab

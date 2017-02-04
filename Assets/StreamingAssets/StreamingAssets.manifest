@@ -1,0 +1,356 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene/textures/texture_50101_605068.ab
+      Dependencies: {}
+    Info_1:
+      Name: scene/textures/texture_50101_605082.ab
+      Dependencies: {}
+    Info_2:
+      Name: scene/textures/texture_10000_603024.ab
+      Dependencies: {}
+    Info_3:
+      Name: scene/textures/terrain_60100_00_grass3.ab
+      Dependencies: {}
+    Info_4:
+      Name: scene/textures/texture_10000_601102.ab
+      Dependencies: {}
+    Info_5:
+      Name: scene/textures/texture_10000_607004.ab
+      Dependencies: {}
+    Info_6:
+      Name: scene/textures/texture_50101_605075.ab
+      Dependencies: {}
+    Info_7:
+      Name: scene/textures/texture_50101_605093.ab
+      Dependencies: {}
+    Info_8:
+      Name: scene/textures/texture_50101_605098.ab
+      Dependencies: {}
+    Info_9:
+      Name: scene/textures/texture_10000_601100.ab
+      Dependencies: {}
+    Info_10:
+      Name: scene/textures/texture_50101_605073.ab
+      Dependencies: {}
+    Info_11:
+      Name: scene/textures/texture_50101_605037.ab
+      Dependencies: {}
+    Info_12:
+      Name: scene/textures/texture_40000_tasharen_water2.ab
+      Dependencies: {}
+    Info_13:
+      Name: scene/textures/texture_50101_605084.ab
+      Dependencies: {}
+    Info_14:
+      Name: scene/textures/texture_40000_612001.ab
+      Dependencies: {}
+    Info_15:
+      Name: scene/textures/texture_60401_607004.ab
+      Dependencies: {}
+    Info_16:
+      Name: scene/textures/texture_50101_605091.ab
+      Dependencies: {}
+    Info_17:
+      Name: scene/textures/texture_50101_605058.ab
+      Dependencies: {}
+    Info_18:
+      Name: scene/textures/texture_10000_601021.ab
+      Dependencies: {}
+    Info_19:
+      Name: scene/textures/texture_50101_605089.ab
+      Dependencies: {}
+    Info_20:
+      Name: scene/textures/texture_60401_607001.ab
+      Dependencies: {}
+    Info_21:
+      Name: preload/shader/shaderinit.ab
+      Dependencies: {}
+    Info_22:
+      Name: scene/prefabs/prefab_50101_605099.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605091.ab
+    Info_23:
+      Name: scene/prefabs/prefab_40000_601001.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_40000_601001.ab
+    Info_24:
+      Name: controllers/unit_121001_ctrl.ab
+      Dependencies: {}
+    Info_25:
+      Name: scene/prefabs/prefab_50101_605078.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605075.ab
+    Info_26:
+      Name: scene/models/materials/texture_40000_612001.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_40000_612001.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_27:
+      Name: scene/models/materials/texture_50101_605089.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_50101_605089.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_28:
+      Name: scene/prefabs/prefab_10000_603050.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_603048.ab
+    Info_29:
+      Name: scene/prefabs/prefab_10000_601025.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_601015.ab
+    Info_30:
+      Name: scene/prefabs/prefab_10000_603026.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_603024.ab
+    Info_31:
+      Name: scene/prefabs/prefab_50101_605093.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605093.ab
+    Info_32:
+      Name: scene/prefabs/prefab_10000_601019.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_601019.ab
+    Info_33:
+      Name: scene/prefabs/prefab_50101_605095.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605093.ab
+    Info_34:
+      Name: scene/prefabs/prefab_50101_605096.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605098.ab
+        Dependency_1: scene/models/materials/texture_50101_605058.ab
+    Info_35:
+      Name: scene/prefabs/prefab_10000_601024.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_601021.ab
+    Info_36:
+      Name: scene/models/materials/texture_10000_601019.ab
+      Dependencies:
+        Dependency_0: preload/shader/shaderinit.ab
+    Info_37:
+      Name: scene/models/materials/texture_50101_605084.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_50101_605084.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_38:
+      Name: scene/prefabs/prefab_50101_605080.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_603048.ab
+    Info_39:
+      Name: scene/prefabs/prefab_50101_605089.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605089.ab
+    Info_40:
+      Name: scene/prefabs/prefab_50101_605083.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605058.ab
+    Info_41:
+      Name: scene/models/materials/texture_10000_601015.ab
+      Dependencies:
+        Dependency_0: preload/shader/shaderinit.ab
+    Info_42:
+      Name: scene/terrains/terrain_50101_606024.ab
+      Dependencies:
+        Dependency_0: scene/textures/terrain_60100_00_grass3.ab
+        Dependency_1: scene/textures/texture_60401_607004.ab
+        Dependency_2: scene/textures/texture_60401_607001.ab
+        Dependency_3: preload/shader/shaderinit.ab
+    Info_43:
+      Name: scene/prefabs/prefab_50101_605307.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_40000_612001.ab
+    Info_44:
+      Name: scene/models/materials/texture_10000_601018.ab
+      Dependencies:
+        Dependency_0: preload/shader/shaderinit.ab
+    Info_45:
+      Name: scene/models/materials/texture_40000_601001.ab
+      Dependencies:
+        Dependency_0: preload/shader/shaderinit.ab
+    Info_46:
+      Name: scene/prefabs/prefab_50101_605081.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_603048.ab
+    Info_47:
+      Name: scene/prefabs/prefab_50101_605073.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_50101_605073.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_48:
+      Name: scene/prefabs/prefab_50101_605069.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605068.ab
+    Info_49:
+      Name: scene/models/materials/texture_50101_608002.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_40000_tasharen_water2.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_50:
+      Name: scene/models/materials/texture_50101_605093.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_50101_605093.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_51:
+      Name: scene/models/materials/texture_10000_601102.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_10000_601102.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_52:
+      Name: scene/models/materials/texture_50101_605091.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_50101_605091.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_53:
+      Name: scene/models/materials/texture_50105_605082.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_50101_605082.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_54:
+      Name: scene/prefabs/prefab_10000_601102.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_601102.ab
+    Info_55:
+      Name: scene/prefabs/prefab_10000_601018.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_601018.ab
+    Info_56:
+      Name: scene/prefabs/prefab_10000_603006.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_603001.ab
+    Info_57:
+      Name: scene/prefabs/prefab_50101_608002.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_608002.ab
+    Info_58:
+      Name: scene/models/materials/texture_10000_601021.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_10000_601021.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_59:
+      Name: scene/models/materials/texture_50101_605068.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_50101_605068.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_60:
+      Name: scene/prefabs/prefab_50101_605084.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605084.ab
+    Info_61:
+      Name: scene/prefabs/prefab_50101_605076.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605075.ab
+    Info_62:
+      Name: scene/models/materials/texture_10000_603048.ab
+      Dependencies:
+        Dependency_0: preload/shader/shaderinit.ab
+    Info_63:
+      Name: scene/prefabs/prefab_50101_605070.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605064.ab
+    Info_64:
+      Name: scene/models/materials/texture_50101_605098.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_50101_605098.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_65:
+      Name: scene/models/materials/texture_10000_603024.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_10000_603024.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_66:
+      Name: scene/prefabs/prefab_50101_605074.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605064.ab
+    Info_67:
+      Name: scene/prefabs/prefab_50101_605082.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50105_605082.ab
+    Info_68:
+      Name: scene/models/materials/texture_10000_607004.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_10000_607004.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_69:
+      Name: scene/models/materials/texture_10000_603001.ab
+      Dependencies:
+        Dependency_0: preload/shader/shaderinit.ab
+    Info_70:
+      Name: scene/models/materials/texture_50101_605075.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_50101_605075.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_71:
+      Name: scene/models/materials/texture_50101_605107.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_50101_605037.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_72:
+      Name: scene/models/materials/texture_50101_605064.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_60401_607004.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_73:
+      Name: scene/prefabs/prefab_50101_605094.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605093.ab
+    Info_74:
+      Name: scene/models/materials/texture_10000_601100.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_10000_601100.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_75:
+      Name: scene/prefabs/prefab_10000_601100.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_601100.ab
+    Info_76:
+      Name: scene/prefabs/prefab_50101_611004.ab
+      Dependencies: {}
+    Info_77:
+      Name: scene/prefabs/prefab_50101_605306.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_40000_612001.ab
+    Info_78:
+      Name: scene/models/materials/texture_50101_605058.ab
+      Dependencies:
+        Dependency_0: scene/textures/texture_50101_605058.ab
+        Dependency_1: preload/shader/shaderinit.ab
+    Info_79:
+      Name: scene/prefabs/prefab_50101_605079.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605075.ab
+    Info_80:
+      Name: scene/models/materials/texture_10000_603036.ab
+      Dependencies:
+        Dependency_0: preload/shader/shaderinit.ab
+    Info_81:
+      Name: scene/prefabs/prefab_10000_603049.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_10000_603048.ab
+    Info_82:
+      Name: scene/prefabs/prefab_50101_605109.ab
+      Dependencies:
+        Dependency_0: scene/models/materials/texture_50101_605107.ab
+    Info_83:
+      Name: unit_121001-model
+      Dependencies:
+        Dependency_0: unit_121001-matrial
+    Info_84:
+      Name: unit_121001-controller
+      Dependencies:
+        Dependency_0: controllers/unit_121001_ctrl.ab
+    Info_85:
+      Name: unit_121001-matrial
+      Dependencies:
+        Dependency_0: preload/shader/shaderinit.ab
+        Dependency_1: unit_121001-texture
+    Info_86:
+      Name: unit_121001-prefab
+      Dependencies:
+        Dependency_0: unit_121001-model
+        Dependency_1: unit_121001-controller
+        Dependency_2: unit_121001-matrial
+    Info_87:
+      Name: unit_121001-texture
+      Dependencies: {}
