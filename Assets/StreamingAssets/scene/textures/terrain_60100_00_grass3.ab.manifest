@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 676965701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d20bd261102b442711d66b993996f2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c0a6a24fc909dd95208e56e2ca96f9c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Scene/Textures/Terrain_60100_00_grass3.tga
+Dependencies: []

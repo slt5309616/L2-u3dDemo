@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3724556384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8865c4af58a9e16283c81f46ab772639
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c0a6a24fc909dd95208e56e2ca96f9c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Scene/Textures/Texture_50101_605098.tga
+Dependencies: []

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2929590287
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d544bed7544e7748831692bba1137a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a352f5de4e6a8e7d8cd99fecdf6842e3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Unit_121001_Test.prefab
+Dependencies:
+- Assets/StreamingAssets/unit_121001-model
+- Assets/StreamingAssets/unit_121001-controller
+- Assets/StreamingAssets/unit_121001-matrial

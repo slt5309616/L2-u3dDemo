@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2336853298
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41877ae3515c25c8b3f0f0a0bd4ac897
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e1ebefb7fbc0fe83eaf4b32b87d1dec2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Models/Unit_121001.FBX
+Dependencies:
+- Assets/StreamingAssets/unit_121001-matrial

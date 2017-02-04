@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2553599684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0a0f0b36e09f1af48c5718953396d4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c0a6a24fc909dd95208e56e2ca96f9c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Scene/Textures/Texture_40000_tasharen_water2.tga
+Dependencies: []

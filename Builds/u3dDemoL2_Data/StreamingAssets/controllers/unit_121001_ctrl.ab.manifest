@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1026091556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55fb1c45d01cd8ddeb8d427b3c19da42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: daa71ef97dfaaf90125bd25c1c31bd88
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A106.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A305.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A406.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_Mount_A201.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A304.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_Mount_Run.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A302.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A101.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_Idle.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A203.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A103.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A107.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A105.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A303.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_Die.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A104.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A202.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_Mount_Hurt.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_Run.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A102.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_Mount_A101.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_Hurt.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_Mount_Idle.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A108.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A204.anim
+- Assets/Resources/Animations/Unit_121001/Unit_121001_A201.anim
+Dependencies: []

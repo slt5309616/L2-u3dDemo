@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1190903794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83419ade2523ac4d92fe6893c738a439
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea1396e1b66bfeaa1c7d6fee455946f1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Scene/Prefabs/Prefab_50101_611004.prefab
+Dependencies: []

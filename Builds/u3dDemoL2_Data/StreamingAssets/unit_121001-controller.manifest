@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2062577954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f8cab6fbf2d02f467299d29347ce7bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f787f7532a437eeeebf524bddccf7191
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Controllers/Unit_121001_Ctrl.controller
+Dependencies:
+- Assets/StreamingAssets/controllers/unit_121001_ctrl.ab

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4183398867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c85ad8cbf6b9a160402729b3b63f5e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1089fea0bc7521f04d7ee9836950478
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/PreLoad/Shader/TasharenWater_MC.shader
+- Assets/Resources/PreLoad/Shader/Builtin/DefaultResourcesExtra/TerrainShaders/Splats/FirstPass.shader
+- Assets/Resources/PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-VertexLit.shader
+- Assets/Resources/PreLoad/Shader/Self-Illumin/Unit_Diffuse.shader
+- Assets/Resources/PreLoad/Shader/PureColor.shader
+- Assets/Resources/PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader
+- Assets/Resources/PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader
+- Assets/Resources/PreLoad/Shader/Diffuse_HouseScene.shader
+- Assets/Resources/PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader
+Dependencies: []

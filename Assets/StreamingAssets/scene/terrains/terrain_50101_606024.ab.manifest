@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1924651770
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ed99532aa4ed8d1d83d1178f39fadfa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 05cc12c3ac7d13cd13df53929ae2bd04
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Scene/Terrains/Terrain_50101_606024.prefab
+Dependencies:
+- Assets/StreamingAssets/scene/textures/terrain_60100_00_grass3.ab
+- Assets/StreamingAssets/scene/textures/texture_60401_607004.ab
+- Assets/StreamingAssets/scene/textures/texture_60401_607001.ab
+- Assets/StreamingAssets/preload/shader/shaderinit.ab

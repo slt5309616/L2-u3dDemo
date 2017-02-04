@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1912174183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ac7fccbd826ba18db7b031241b1bdf5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 471bc7c5a6d3c2d837b79703213e077b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Scene/Prefabs/Prefab_50101_605070.prefab
+Dependencies:
+- Assets/StreamingAssets/scene/models/materials/texture_50101_605064.ab
